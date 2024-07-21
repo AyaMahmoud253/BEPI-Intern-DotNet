@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\laptop\source\repos\AgeCalculator\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll
