@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\bin\Debug\net8.0\ReferenceTypeAndBoxingExample.exe
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\bin\Debug\net8.0\ReferenceTypeAndBoxingExample.deps.json
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\bin\Debug\net8.0\ReferenceTypeAndBoxingExample.runtimeconfig.json
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\bin\Debug\net8.0\ReferenceTypeAndBoxingExample.dll
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\bin\Debug\net8.0\ReferenceTypeAndBoxingExample.pdb
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.AssemblyInfo.cs
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.dll
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\refint\ReferenceTypeAndBoxingExample.dll
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.pdb
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ReferenceTypeAndBoxingExample.genruntimeconfig.cache
+C:\Users\laptop\source\repos\ReferenceTypeAndBoxingExample\ReferenceTypeAndBoxingExample\obj\Debug\net8.0\ref\ReferenceTypeAndBoxingExample.dll
