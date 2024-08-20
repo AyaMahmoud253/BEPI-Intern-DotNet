@@ -1,0 +1,14 @@
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\bin\Debug\net8.0\GenericAndExtensionMethods.exe
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\bin\Debug\net8.0\GenericAndExtensionMethods.deps.json
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\bin\Debug\net8.0\GenericAndExtensionMethods.runtimeconfig.json
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\bin\Debug\net8.0\GenericAndExtensionMethods.dll
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\bin\Debug\net8.0\GenericAndExtensionMethods.pdb
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.AssemblyInfo.cs
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.dll
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\refint\GenericAndExtensionMethods.dll
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.pdb
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\GenericAndExtensionMethods.genruntimeconfig.cache
+C:\Users\laptop\source\repos\GenericAndExtensionMethods\GenericAndExtensionMethods\obj\Debug\net8.0\ref\GenericAndExtensionMethods.dll
